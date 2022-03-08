@@ -1,2 +1,2 @@
-# SQL-L1
- SQL learning 1
+# SQL-practice
+## MySQL practice
